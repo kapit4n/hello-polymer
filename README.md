@@ -1,5 +1,6 @@
 # &lt;hello-world&gt;
 
+Try this tutorial (https://www.polymer-project.org/1.0/docs/devguide/quick-tour)
 > A Web Component example using [Polymer](http://www.polymer-project.org/).
 >
 > Looking for a boilerplate? Check [polymer-boilerplate](https://github.com/webcomponents/polymer-boilerplate).
